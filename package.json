@@ -21,5 +21,8 @@
   "homepage": "https://github.com/pramanandasarkar02/webcrawler#readme",
   "devDependencies": {
     "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "jsdom": "^26.0.0"
   }
 }
